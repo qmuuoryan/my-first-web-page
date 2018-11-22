@@ -3,9 +3,10 @@ h1{
   text-align: center;
 }
 h2{
-  color: #4E2DA9;
+  color: blue;
   font-style: italic;
-  text-align; center;
+  text-align: center;
+  background-color: yellow;
 }
 
 p{
